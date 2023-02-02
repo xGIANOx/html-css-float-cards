@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+:root{
+    --float-:#e53170;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.page_title{
+    color:var(--float-);
+    padding: 2rem;
+    text-align: center;
+}
