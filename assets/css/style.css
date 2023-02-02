@@ -67,13 +67,18 @@ h2{
     color: aqua;
 }
 
+footer{
+    text-align: center;
+    margin-top: 4rem
+}
 
 /*DEBUG*/
 
 .debug{
     background-color: #e53170;
     border: 1px solid black;
-    width: calc(100% / 3 - 3rem);
+    width: calc(100% / 3 - 1rem);
     float: left;
     margin-right: 1rem;
+    margin-left: 1rem;
 }
